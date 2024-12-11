@@ -1,6 +1,6 @@
 # Sign-Language-Translator-with-Random-Forest-Classifier
 
-This project uses a Random Forest Classifier to translate sign language gestures into text. The model is trained to recognize sign language gestures from image or video input and output corresponding English text. The application aims to bridge the communication gap for people who use sign language.
+This project uses a Random Forest Classifier to translate sign language gestures into text. The model is trained to recognize sign language gestures from input and output corresponding English text. The application aims to bridge the communication gap for people who use sign language.
 
 Features
 
